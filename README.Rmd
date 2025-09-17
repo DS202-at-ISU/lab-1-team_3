@@ -17,3 +17,39 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+# 12.1 
+- Nathan: 
+- Colin: 
+- Sebastian: 
+- Kenzie: 
+# 12.2
+- Nathan: 
+- Colin: 
+- Sebastian: 
+- Kenzie: 
+# 12.3
+- Nathan: 
+- Colin: 
+- Sebastian: 
+- Kenzie: 
+# 12.4
+- Nathan: 
+- Colin: 
+- Sebastian: 
+- Kenzie: 
+# 12.5
+- Nathan: 
+- Colin: 
+- Sebastian: 
+- Kenzie: 
+# 12.6
+- Nathan: 
+- Colin: 
+- Sebastian: 
+- Kenzie: 
+# 12.7
+- Nathan: 
+- Colin: 
+- Sebastian: 
+- Kenzie: 
