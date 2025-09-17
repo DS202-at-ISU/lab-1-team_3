@@ -34,7 +34,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Sebastian: 
 - Kenzie: 
 # 12.4
-- Nathan: 
+- Nathan: I committed changes locally, first it said there was no changes, I realized I hadn't saved my changes to the Rmd file.
 - Colin: 
 - Sebastian: 
 - Kenzie: 
