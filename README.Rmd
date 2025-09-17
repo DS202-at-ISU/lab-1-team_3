@@ -39,12 +39,12 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Sebastian: 
 - Kenzie: 
 # 12.5
-- Nathan: 
+- Nathan: I pushed my changes to the remote. At first there was merge conflicts, but pulling down the changes resolved them automatically.
 - Colin: 
 - Sebastian: 
 - Kenzie: 
 # 12.6
-- Nathan: 
+- Nathan: After refreshing the page, the Rmd file updated to reflect my changes.
 - Colin: 
 - Sebastian: 
 - Kenzie: 
