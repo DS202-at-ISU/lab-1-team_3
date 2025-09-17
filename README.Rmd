@@ -22,7 +22,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Nathan: I've done all the prereqs, and I have experience with Git.
 - Colin: 
 - Sebastian: I had to follow chapter 7 since this is my firt time using git.
-- Kenzie: 
+- Kenzie: I am familiar with Git.
 # 12.2
 - Nathan: 
 - Colin: 
