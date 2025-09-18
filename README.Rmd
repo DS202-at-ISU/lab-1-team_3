@@ -27,22 +27,22 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Nathan: Instead of creating a new repo, I referenced the group repo that was already made.
 - Colin: 
 - Sebastian: 
-- Kenzie: 
+- Kenzie: I used the pre-made reop
 # 12.3
 - Nathan: I cloned the project using RStudio, I manually adjusted the project directory. Now the project is displaying in RStudio
 - Colin: 
 - Sebastian: 
-- Kenzie: 
+- Kenzie: It took me a couple minutes, but I cloned the project in RStudio.
 # 12.4
 - Nathan: I committed changes locally, first it said there was no changes, I realized I hadn't saved my changes to the Rmd file.
 - Colin: 
 - Sebastian: 
-- Kenzie: 
+- Kenzie: I committed the changes. I had to use the terminal and save the project for it to work.
 # 12.5
 - Nathan: I pushed my changes to the remote. At first there was merge conflicts, but pulling down the changes resolved them automatically.
 - Colin: 
 - Sebastian: 
-- Kenzie: 
+- Kenzie: I had no trouble pushing the changes.
 # 12.6
 - Nathan: After refreshing the page, the Rmd file updated to reflect my changes.
 - Colin: 
