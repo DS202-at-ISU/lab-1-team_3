@@ -21,17 +21,17 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 # 12.1 
 - Nathan: I've done all the prereqs, and I have experience with Git.
 - Colin: I did the prereqs from chapter 7 on as I don't have previous experience with Git.
-- Sebastian: I had to follow chapter 7 since this is my firt time using git.
+- Sebastian: I had to follow chapter 7 since this is my first time using git.
 - Kenzie: I am familiar with Git.
 # 12.2
 - Nathan: Instead of creating a new repo, I referenced the group repo that was already made.
 - Colin: 
-- Sebastian: 
+- Sebastian: I used the lab group repo
 - Kenzie: I used the pre-made reop
 # 12.3
 - Nathan: I cloned the project using RStudio, I manually adjusted the project directory. Now the project is displaying in RStudio
 - Colin: 
-- Sebastian: 
+- Sebastian: I cloned the project in Rstudio without issue. I created a new folder for labs in order to save the project there. 
 - Kenzie: It took me a couple minutes, but I cloned the project in RStudio.
 # 12.4
 - Nathan: I committed changes locally, first it said there was no changes, I realized I hadn't saved my changes to the Rmd file.
