@@ -25,12 +25,12 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Kenzie: I am familiar with Git.
 # 12.2
 - Nathan: Instead of creating a new repo, I referenced the group repo that was already made.
-- Colin: 
+- Colin: Used the group repo for the lab.
 - Sebastian: I used the lab group repo
 - Kenzie: I used the pre-made reop
 # 12.3
 - Nathan: I cloned the project using RStudio, I manually adjusted the project directory. Now the project is displaying in RStudio
-- Colin: 
+- Colin: I had some problems where RStudio kept saying permission denied but I was eventually able to get it resolved.
 - Sebastian: I cloned the project in Rstudio without issue. I created a new folder for labs in order to save the project there. 
 - Kenzie: It took me a couple minutes, but I cloned the project in RStudio.
 # 12.4
