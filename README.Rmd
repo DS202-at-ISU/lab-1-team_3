@@ -40,11 +40,11 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Kenzie: I committed the changes. I had to use the terminal and save the project for it to work.
 # 12.5
 - Nathan: I pushed my changes to the remote. At first there was merge conflicts, but pulling down the changes resolved them automatically.
-- Colin: 
+- Colin: Once I got a personal access token I was able to push the changes without issues. 
 - Sebastian: I had no issue pushing the changes.
 - Kenzie: I had no trouble pushing the changes.
 # 12.6
 - Nathan: After refreshing the page, the Rmd file updated to reflect my changes.
-- Colin: 
+- Colin: I reloaded the page and the file was updated with my changes.
 - Sebastian: The Rmd file was updated after reloading.
 - Kenzie: I saw the changes in the file after I reloaded the page.
