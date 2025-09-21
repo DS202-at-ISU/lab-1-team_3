@@ -35,7 +35,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 - Kenzie: It took me a couple minutes, but I cloned the project in RStudio.
 # 12.4
 - Nathan: I committed changes locally, first it said there was no changes, I realized I hadn't saved my changes to the Rmd file.
-- Colin: Changes made on RStudio
+- Colin: I was able to make changes to the file and commit those changes without issue.
 - Sebastian: I committed the changes after saving the changes for the README.rmd.
 - Kenzie: I committed the changes. I had to use the terminal and save the project for it to work.
 # 12.5
